@@ -2,7 +2,7 @@
   "name": "ytb",
   "version": "1.0.0",
   "description": "",
-  "main": "sex.js",
+  "main": "index.js",
   "scripts": {
     "start": "node sex.js"
   },
