@@ -12,6 +12,6 @@
   "dependencies": {
     "@types/node": "^18.0.6",
     "express": "^4.21.0",
-    "globalsprak": "^1.0.7"
+    "globalsprak": "^1.0.6"
   }
 }
