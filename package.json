@@ -1,0 +1,17 @@
+{
+  "name": "ytb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sex.js",
+  "scripts": {
+    "start": "node sex.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "express": "^4.21.0",
+    "globalsprak": "^1.0.7"
+  }
+}
