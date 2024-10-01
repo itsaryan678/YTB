@@ -1,10 +1,10 @@
 {
   "name": "ytb",
   "version": "1.0.0",
-  "description": "",
+  "description": "Download Youtube videos",
   "main": "index.js",
   "scripts": {
-    "start": "node sex.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
